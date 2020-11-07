@@ -46,7 +46,7 @@ THEN I am presented with the last searched city forecast
 
 <br>
 
-Following this URL, you can access and run the application: 
+Following this URL, you can access and run the application: https://alexbachicha.github.io/Weather-Dashboard/
 
 ## Acknowledgements and Credits
 
