@@ -2,7 +2,7 @@
 
 ## Description
 
-![](/Users/bachicha/code/homework6/Weather-Dashboard/assets/Screen Shot 2020-11-07 at 1.49.55 PM.png)
+![](assets/Screen Shot 2020-11-07 at 1.49.55 PM.png)
 
 The challenge of this project was to build a weather dashboard that runs in the browser and features dynamically updated HTML and CSS. I used the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities of the user's choice. `localStorage` is used to store any persistent data.
 
@@ -50,9 +50,9 @@ Following this URL, you can access and run the application:
 
 ## Acknowledgements and Credits
 
-* [Bootstrap]https://getbootstrap.com/
-* [Fontawesome]https://fontawesome.com/
-* [OpenWeatherDemo]http://osp123.github.io/tutorials/html/weatherAPI.html
-* [OpenWeatherGuide]https://openweathermap.org/guide
-* [API'sForBeginners]https://www.youtube.com/watch?v=GZvSYJDk-us&t=1140s
-* [W3Schools]https://www.w3schools.com/
+* [Bootstrap](https://getbootstrap.com/)
+* [Fontawesome](https://fontawesome.com/)
+* [OpenWeatherDemo](http://osp123.github.io/tutorials/html/weatherAPI.html)
+* [OpenWeatherGuide](https://openweathermap.org/guide)
+* [API'sForBeginners](https://www.youtube.com/watch?v=GZvSYJDk-us&t=1140s)
+* [W3Schools])https://www.w3schools.com/)
