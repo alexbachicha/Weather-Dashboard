@@ -125,12 +125,12 @@ function forecast(cityid) {
 
 // Saving searches 
 function addToList(c) {
-    var listEl = $("<li>" + c.toUpperCase() + "</li>");
+    var listEl = $("<li>" + c.toLowerCase() + "</li>");
     $(listEl).attr("class", "list-group-item");
-    $(listEl).attr("data-value", c.toUpperCase());
+    $(listEl).attr("data-value", c.toLowerCase());
     $(".list-group").append(listEl);
 }
-// Return to past searches display page when it is clicked in the history and rendering the function
+// Function for returning past city searches
 function invokePastSearch(event) {
     var liEl = event.target;
     if (event.target.matches("li")) {
